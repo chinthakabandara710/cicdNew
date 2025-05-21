@@ -14,6 +14,6 @@ describe("Math.js tests", () => {
   });
 
   it("Should test multiply", () => {
-    expect(multiply(2, 2)).toBe(5);
+    expect(multiply(2, 2)).toBe(4);
   });
 });
