@@ -1,0 +1,24 @@
+{
+  "name": "cicdnew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinthakabandara710/cicdNew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chinthakabandara710/cicdNew/issues"
+  },
+  "homepage": "https://github.com/chinthakabandara710/cicdNew#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

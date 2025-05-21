@@ -10,7 +10,7 @@ describe("Math.js tests", () => {
   });
 
   it("Should test divide", () => {
-    expect(divide(4, 2)).toBe(11);
+    expect(divide(4, 2)).toBe(2);
   });
 
   it("Should test multiply", () => {
